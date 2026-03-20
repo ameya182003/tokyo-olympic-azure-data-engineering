@@ -1,0 +1,23 @@
+[
+	{
+	"csv_relative_url": "tokyo-olympic-azure-data-engineering/blob/main/data/Athletes.csv",
+	"file_name":"Athletes.csv"
+	},
+	{
+	"csv_relative_url": "tokyo-olympic-azure-data-engineering/blob/main/data/Coaches.csv",
+	"file_name":"Coaches.csv"
+	},
+	{
+	"csv_relative_url": "tokyo-olympic-azure-data-engineering/blob/main/data/EntriesGender.csv",
+	"file_name":"EntriesGender.csv"
+	},
+	{
+	"csv_relative_url": "tokyo-olympic-azure-data-engineering/blob/main/data/Medals.csv",
+	"file_name":"Medals.csv"
+	},
+	{
+	"csv_relative_url": "tokyo-olympic-azure-data-engineering/blob/main/data/Teams.csv",
+	"file_name":"Teams.csv"
+	}
+]
+
